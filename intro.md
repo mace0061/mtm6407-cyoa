@@ -13,3 +13,5 @@ What do you do?
 [Climb the stairs.](stairs.md)
 
 [Right Hallway.](righthall.md)
+
+[Walk down the left hallway.](lefthallway.md)
