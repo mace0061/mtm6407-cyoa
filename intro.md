@@ -8,4 +8,4 @@ As you rub the sleep from your eyes, hoping to spot a chunk of stale bread or a 
 
 You muster your strength, shove down your exhaustion, and climb to your feet. The metal door is heavy, but you manage to push it open with your shoulder, the hinges creaking ominously. The sound echoes through the empty dungeon as you get your bearings. You're in a wide chamber with prison cells lining the walls- all of them deserted. You're not completely sure, but you think you remember there being other prisoners when you arrived. And the occasional bout of moans or pleading had been a steady beat over the past few weeks, along with the dripping water and clang of metal. Now only the drips can be heard. Whatever happened here, it's left you isolated. For now. There's hallways to your left and right, and a staircase ahead of you.
 
-What do you do?
+What do you do? 
