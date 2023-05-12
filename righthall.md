@@ -6,4 +6,6 @@ After what feels like an eternity of walking, you start to hear distant sounds, 
 
 In time, you stumble upon a manuscript that holds the key to your escape. It describes a hidden passage, known only to a select few.
 
+Navigating the labyrinthine corridors and hidden chambers, you follow the instructions meticulously detailed in the manuscript. It takes a combination of wit, cunning, and a touch of luck, but eventually, you discover the concealed entrance to the...
+
 What do you do next?
