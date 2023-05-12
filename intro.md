@@ -10,4 +10,8 @@ You muster your strength, shove down your exhaustion, and climb to your feet. Th
 
 What do you do? 
 
+[Climb the stairs.](stairs.md)
+
+[Right Hallway.](righthall.md)
+
 [Walk down the left hallway.](lefthallway.md)
